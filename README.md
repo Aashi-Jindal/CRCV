@@ -639,7 +639,7 @@ usage: train_classifier.py [-h] -e EMBEDDING_FILE -t TRAIN_SEQUENCES_FILE -l
 |-a|Optional|`float`|1e-6|Attention layer weight regularization|
 |-o|Optional|`str`|Current directory|Output path|
 
-The weights of trained network are available at: <a href="https://gofile.io/?c=Dq6dJR">link</a>
+The weights of trained network are available at: <a href="https://drive.google.com/file/d/1QLzHQqzZ8Zzoq8BdMPMNJB6PkKqwu0Lx/view?usp=sharing">link</a>
 
 ```bash
 EMBEDDING_FILE_PATH=${EMB_OUTPUTPATH}/finish/weights_emb${EMBEDDING_SIZE}_itr_${EMB_END_EPOCH}.pkl
@@ -895,7 +895,7 @@ Similar steps for `dbSNP` or any other dataset.
 
 Steps:
 
-1. Download trained weights from <a href="https://gofile.io/?c=Dq6dJR">link</a> and place them in models folder and run
+1. Download trained weights from <a href="https://drive.google.com/file/d/1QLzHQqzZ8Zzoq8BdMPMNJB6PkKqwu0Lx/view?usp=sharing">link</a> and place them in models folder and run
 
 ```bash
 gunzip weights_model.pkl.gz
