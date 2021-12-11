@@ -58,7 +58,7 @@ UCSC table browser is available at: <a href="http://genome.ucsc.edu/cgi-bin/hgTa
 ![](images/ref.png?raw=true)
 
 <h4>e. dbSNP VCF </h4>
-<a href="ftp://ftp.ncbi.nih.gov/snp/latest_release/VCF%7D">dbSNP</a>
+<a href="https://pubmed.ncbi.nlm.nih.gov/11125122/">dbSNP</a>
 
 <h4>f. mET VCF (Supplementary Table 3)</h4>
 <a href ="https://www.nature.com/articles/s41586-019-1689-y#MOESM1">mET </a>
