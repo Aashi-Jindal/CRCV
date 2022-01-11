@@ -921,3 +921,7 @@ CUDA_VISIBLE_DEVICES=0 python src/predict.py -e ${EMBEDDING_FILE} -m ${MODEL_FIL
 ```
 
 This script show how to get predictions for `mET` data. Similarly, Other data can be passed to get their predictions.
+
+
+Embeddings for all the chromosomes can be downloaded from:
+https://www.dropbox.com/s/1qn4r0n406r7b0y/embeddings.tar.xz?dl=0
