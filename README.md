@@ -19,7 +19,7 @@
 
 Tested on UBUNTU 18.04 LTS.
 
-All results in manuscript have been generated using `python 3.0`.
+All results in manuscript have been generated using `python 3.7.2`.
 
 <a name="prerequisites"></a>
 ## Prerequisites
